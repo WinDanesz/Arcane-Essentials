@@ -26,4 +26,4 @@ jobs:
           ./gradlew clean
           ./gradlew setupCIWorkspace
           ./gradlew build
-#          ./gradlew build publish
+          ./gradlew build publish
